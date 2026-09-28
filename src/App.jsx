@@ -84,14 +84,14 @@ const portals = [
   //   url: "https://apstracking.com/uniform-web",
   //   icon: "U",
   // },
-  {
-    name: "Employee Tracker System",
-  //  category: "Workforce",
-    description:
-      "Track field-officer locations and monitor operational activities.",
-    url: "https://www.apsgroupapp.com/tracker-ssr/",
-    icon: "ET",
-  },
+  // {
+  //   name: "Employee Tracker System",
+  // //  category: "Workforce",
+  //   description:
+  //     "Track field-officer locations and monitor operational activities.",
+  //   url: "https://www.apsgroupapp.com/tracker-ssr/",
+  //   icon: "ET",
+  // },
   // {
   //   name: "Inventory Management System",
   //  // category: "Inventory",
